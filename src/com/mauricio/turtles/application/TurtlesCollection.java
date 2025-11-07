@@ -1,3 +1,7 @@
+package com.mauricio.turtles.application;
+
+import com.mauricio.turtles.entities.Tartaruga;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;

@@ -1,3 +1,5 @@
+package com.mauricio.turtles.entities;
+
 public class Tartaruga {
 
     private String nome;

@@ -25,7 +25,7 @@ O programa fica em loop até que o usuário digite "sair", e então emite uma me
 
 Este projeto foi focado em praticar e solidificar os seguintes conceitos do Java:
 
-* **Programação Orientada a Objetos (POO):** Criação da classe `Tartaruga` para modelar os personagens.
+* **Programação Orientada a Objetos (POO):** Criação da classe `com.mauricio.turtles.entities.Tartaruga` para modelar os personagens.
 * **Coleções (Collections Framework):** Uso intensivo do `HashMap` para armazenar e consultar os objetos de forma eficiente (chave-valor).
 * **Entrada de Dados:** Utilização da classe `Scanner` para capturar a entrada do usuário.
 * **Estruturas de Repetição:** Implementação de um loop `while (true)` para a execução contínua do menu.
@@ -39,7 +39,7 @@ Este projeto foi focado em praticar e solidificar os seguintes conceitos do Java
     ```
 2.  Abra o projeto na sua IDE.
 3.  Configure o projeto para usar o **JDK 25**.
-4.  Localize a classe `TurtlesCollection.java`.
+4.  Localize a classe `com.mauricio.turtles.application.TurtlesCollection.java`.
 5.  Execute o método `main()`.
 
 ## 🙏 Agradecimentos
